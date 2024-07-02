@@ -1,0 +1,46 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-3b416613b2557713b780864c5e3f4736505aeeacfd75928c9f37e0cab1d4bfcd",
+  "author": "Simone Romano (siromano@unisa.it)",
+  "timestamp": "2024-06-19T09:55:34.744105+02:00",
+  "last_updated": "2024-06-19T09:59:04.08343+02:00",
+  "version": 3,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45857"
+      },
+      "timestamp": "2024-06-19T09:55:34.744105+02:00",
+      "products": [
+        {
+          "@id": "pkg:npm/axios@0.26.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-26159"
+      },
+      "timestamp": "2024-06-19T09:58:42.434404+02:00",
+      "products": [
+        {
+          "@id": "pkg:npm/follow-redirects@1.14.8"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-28849"
+      },
+      "timestamp": "2024-06-19T09:59:04.083431+02:00",
+      "products": [
+        {
+          "@id": "pkg:npm/follow-redirects@1.14.8"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}
